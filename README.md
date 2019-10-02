@@ -3,7 +3,7 @@ Depression Sentiment Prediction Project for Udacity's Machine Learning Engineer 
 This repository houses all the files used for [Udacity's Machine Learning Engineer Nanodegree Capstone Project](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 
 **Repository Structure**
-1. The Folder [Code](Code/) contains all the code in this project.
+1. The Folder [Code](code/) contains all the code in this project.
 2. The Folder [models](models/) contains all the final Models that were trained on data (except one, which is *Random Forest Classification* model, reason being it's huge size which made it impossible to upload on Github).
 3. The File [Proposal.pdf](proposal.pdf) contains the original proposal for the project.
 4. The File [Report.pdf](report.pdf) contains the final project report for the project.
