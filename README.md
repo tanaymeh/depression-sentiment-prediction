@@ -32,5 +32,6 @@ If that doesn't work for some reason, you can manually install them using;
 $ pip install numpy pandas matplotlib sklearn xgboost nltk
 ```
 **Dataset**
-The Original dataset *isnot* included here due it's massive size. It can be downloaded from [here](https://www.kaggle.com/kazanova/sentiment140).
+
+The Original dataset *IS NOT* included here due it's massive size. It can be downloaded from [here](https://www.kaggle.com/kazanova/sentiment140).
 Note: To download the dataset, one must have a verified [Kaggle](https://kaggle.com) account.
