@@ -9,7 +9,8 @@ This repository houses all the files used for [Udacity's Machine Learning Engine
 4. The File [Report.pdf](report.pdf) contains the final project report for the project.
 
 **Dependencies**
-To code present in this project, you have to have following libraries with their specified versions.
+
+To run the code present in this project, you have to have following libraries with their specified versions.
 ```
 numpy >= 1.15.4
 pandas >= 0.23.4
