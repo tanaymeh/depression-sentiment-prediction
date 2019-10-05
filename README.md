@@ -1,6 +1,5 @@
 # depression-sentiment-prediction
-Depression Sentiment Prediction Project for Udacity's Machine Learning Engineer Nanodegree Capstone Project.
-This repository houses all the files used for [Udacity's Machine Learning Engineer Nanodegree Capstone Project](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+Predicting Depression from Tweets
 
 **Repository Structure**
 1. The Folder [Code](code/) contains all the code in this project.
