@@ -1,5 +1,5 @@
 # depression-sentiment-prediction
-Predicting Depression from Tweets
+Predicting Depression from User tweets.
 
 **Repository Structure**
 1. The Folder [Code](code/) contains all the code in this project.
