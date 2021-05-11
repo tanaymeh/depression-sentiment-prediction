@@ -1,4 +1,4 @@
-# depression-sentiment-prediction
+# Depression Sentiment Prediction
 Predicting Depression from User tweets.
 
 **Repository Structure**
